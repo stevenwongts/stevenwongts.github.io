@@ -7,5 +7,5 @@
 - Contact information.
 
 #### Acknowledgement
->- The website templete is provide by [HTML6 UP](https://html5up.net/).
+>- The website templete is provide by [HTML5 UP](https://html5up.net/).
 >- This site was built using [GitHub Pages](https://pages.github.com/).
